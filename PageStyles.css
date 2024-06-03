@@ -1,16 +1,17 @@
 body {
-  font-family: Play
+  font-family: Play;
+  text-alignment: center;
 }
 strong, b {
   font-family: Bold Play
 }
 @font-face {
-  font-family: Play
-  src:url("https://bit-portal.github.io/fonts/Play-Regular.ttf")
+  font-family: Play;
+  src:url("https://bit-portal.github.io/fonts/Play-Regular.ttf");
 }
 @font-face {
-  font-family: Bold Play
-  src:url("https://bit-portal.github.io/fonts/Play-Bold.ttf")
+  font-family: Bold Play;
+  src:url("https://bit-portal.github.io/fonts/Play-Bold.ttf");
 }
 header {
   background-color: #666;
