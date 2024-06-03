@@ -1,6 +1,7 @@
 body {
   font-family: Play;
   text-align: center;
+  background-color: 1f1f1f;
 }
 strong, b {
   font-family: Bold Play
@@ -14,7 +15,7 @@ strong, b {
   src:url("https://bit-portal.github.io/fonts/Play-Bold.ttf");
 }
 header {
-  background-color: #666;
+  background-color: #000d29;
   padding: 30px;
   text-align: center;
   font-size: 35px;
