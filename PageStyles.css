@@ -21,6 +21,10 @@ header {
   font-size: 35px;
   color: white;
 }
+.leftheader {
+  float: left;
+  width: 400;
+}
 nav {
   float: left;
   width: 30%;
