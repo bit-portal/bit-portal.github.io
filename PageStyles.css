@@ -8,11 +8,11 @@ strong, b {
 }
 @font-face {
   font-family: Play;
-  src:url("http://www.bitstream.42web.io//fonts/Play-Regular.ttf");
+  src:url("https://bit-portal.github.io/fonts/Play-Regular.ttf");
 }
 @font-face {
   font-family: Bold Play;
-  src:url("http://www.bitstream.42web.io//fonts/Play-Bold.ttf");
+  src:url("https://bit-portal.github.io/fonts/Play-Bold.ttf");
 }
 header {
   background-color: #000d29;
